@@ -1,0 +1,179 @@
+LB5-45		General
+LB51-885		Systems of individual educators and writers
+LB1025-1050.75		Teaching (Principles and practice)
+LB1049.9-1050.75			Reading (General)
+LB1050.9-1091		Educational psychology
+LB1101-1139		Child study
+LB1139.2-1139.5		Early childhood education
+LB1140-1140.5		Preschool education.  Nursery schools
+LB1141-1489		Kindergarten
+LB1501-1547		Primary education
+LB1555-1602		Elementary or public school education
+LB1603-1696.6		Secondary education.  High schools
+LB1705-2286		Education and training of teachers and administrators
+LB1771-1773			Certification of teachers
+LB1775-1785			Professional aspects of teaching and school administrators. Vocational guidance
+LB1805-2151			State teachers colleges
+LB1811-1987				United States
+LB1991-2151				Other regions or countries
+LB2165-2278			Teacher training in universities and colleges
+LB2300-2430		Higher education
+LB2326.4-2330			Institutions of higher education
+LB2331.7-2335.8			Teaching personnel
+LB2335.86-2335.885			Trade unions
+LB2335.95-2337			Endowments, trusts, etc.
+LB2337.2-2340.8			Student financial aid
+LB2341-2341.95			Supervision and administration.  Business management
+LB2351-2359			Admissions and entrance requirements
+LB2361-2365			Curriculum
+LB2366-2367.75			College examinations
+LB2371-2372			Graduate education
+LB2381-2391			Academic degrees
+LB2799-2799.3		Educational consultants and consulting
+LB2801-3095		School administration and organization
+LB2831.6-2831.99			Administrative personnel
+LB2832-2844.1			Teaching personnel
+LB2844.52-2844.63			Trade unions
+LB3011-3095			School management and discipline
+LB3045-3048				Textbooks
+LB3050-3060.87				Educational tests, measurements, evaluations and examinations
+LB3201-3325		School architecture and equipment.  School physical facilities. Campus planning
+LB3401-3495		School hygiene.  School health services
+LB3497-3499		Hygiene in universities and colleges
+LB3525-3575		Special days
+LB3602-3640		School life.  Student manners and customs
+LC8-59		Forms of education
+LC8			General works
+LC15			Conversation and culture
+LC25-33			Self-education.  Self-culture
+LC37-44.3			Home education
+LC45-45.8			Nonformal education
+LC47-58.7			Private school education
+LC58-58.7				Preparatory schools.  Preparatory school education
+LC59			Public school education
+LC65-245		Social aspects of education
+LC65-67.68			Economic aspects of education
+LC68-70			Demographic aspects of education
+LC71-120.4			Education and the state
+LC72-72.5				Academic freedom
+LC107-120.4				Public school question.  Secularization.  Religious instruction in the public schools
+LC129-139			Compulsory education
+LC142-148.5			Attendance.  Dropouts
+LC149-161			Literacy.  Illiteracy
+LC165-182			Higher education and the state
+LC184-188			Taxation of schools and colleges
+LC189-214.53			Educational sociology
+LC212-212.863				Discrimination in education
+LC212.9-212.93				Sex differences in education
+LC213-214.53				Educational equalization.  Right to education
+LC215-238.4			Community and the school
+LC223				Schools as community centers
+LC225-226.7				Home and school
+LC230-235				Parent-teacher associations.  Home and school associations
+LC237-238.4				College-university and the community
+LC241-245			Foundations, endowments, funds
+LC251-951		Moral and religious education
+LC251-318			Moral education.  Character building
+LC321-951			Religion and education.  Education under church control
+LC361-629				Christian education.  Church education
+LC446-454					Orthodox Eastern Church
+LC461-510					Roman Catholic
+LC531-629					Protestant
+LC701-775				Jewish education
+LC901-915				Islamic education
+LC921-929.7				Buddhist education
+LC951				Other
+LC980-1099.5		Types of education
+LC1001-1024			Humanistic education.  Liberal education
+LC1022-1022.25				Computer-assisted education
+LC1025-1027			Collective education
+LC1030			Communist education
+LC1031-1034.5			Competency based education
+LC1035-1035.8			Basic education.  Basic skills education
+LC1036-1036.8			Community education
+LC1037-1037.8			Career education
+LC1041-1048			Vocational education (General)
+LC1049-1049.8			Cooperative education
+LC1051-1072			Professional education
+LC1081-1087.4			Industrial education (General)
+LC1090-1091			Political education
+LC1099-1099.5			Multicultural education (General)
+LC1200-1203		Inclusive education
+LC1390-5160.3		Education of special classes of persons
+LC1390			Men.  Boys
+LC1401-2572			Women.  Girls
+LC2574-2576			Gays.  Lesbians.  Bisexuals
+LC2580-2582			Student-athletes
+LC2601-2611			Education in developing countries
+LC2630-2638			Asian Americans.  Asians in the United States
+LC2667-2698			Latin Americans.  Hispanic Americans
+LC2680-2688				Mexican Americans.  Mexicans in the United States
+LC2690-2698				Puerto Ricans.  Puerto Ricans in the United States
+LC2699-2913			Blacks.  African Americans
+LC3001-3501			Asians
+LC3503-3520			Romanies.  Gypsies
+LC3530-3540			Lapps
+LC3551-3593			Jews
+LC3701-3740			Immigrants or ethnic and linguistic minorities.  Bilingual schools				and bilingual education
+LC3745-3747			Children of immigrants (First generation)
+LC3950-4806.5			Exceptional children and youth.  Special education
+LC3991-4000				Gifted children and youth
+LC4001-4806.5				Children and youth with disabilities.  Learning disabled children and youth
+LC4812-5160.3			Other special classes
+LC5161-5163		Fundamental education
+LC5201-6660.4		Education extension.  Adult education.  Continuing education
+LC5451-5493			Aged education
+LC5501-5560			Evening schools
+LC5701-5771			Vacation schools.  Summer schools
+LC5800-5808			Distance education
+LC5900-6101			Correspondence schools
+LC6201-6401			University extension
+LC6501-6560.4			Lyceums and lecture courses.  Forums
+LC6571-6581			Radio and television extension courses.  Instruction by radio and television
+LC6601-6660.4			Reading circles and correspondence clubs
+LC6681		Education and travel
+LC6691		Traveling educational exhibits
+BF38-64		Philosophy.  Relation to other topics
+BF173-175.5		Psychoanalysis
+BF176-176.5		Psychological tests and testing
+BF180-198.7		Experimental psychology
+BF203		Gestalt psychology
+BF207-209		Psychotropic drugs and other substances
+BF231-299		Sensation.  Aesthesiology
+BF309-499		Consciousness.  Cognition
+BF501-505		Motivation
+BF511-593		Affection.  Feeling.  Emotion
+BF608-635		Will.  Volition.  Choice.  Control
+BF636-637		Applied psychology
+BF638-648		New Thought.  Menticulture, etc.
+BF660-685		Comparative psychology.  Animal and human psychology
+BF692-692.5		Psychology of sex.  Sexual behavior
+BF697-697.5		Differential psychology.  Individuality.  Self
+BF698-698.9		Personality
+BF699-711		Genetic psychology
+BF712-724.85		Developmental psychology Including infant psychology, child psychology, adolescence, adulthood
+BF725-727		Class psychology
+BF795-839		Temperament.  Character
+BF839.8-885		Physiognomy.  Phrenology
+BF889-905		Graphology.  Study of handwriting
+BF908-940		The hand.  Palmistry
+BF1001-1389	Parapsychology
+BF1001-1045		Psychic research.  Psychology of the conscious
+BF1048-1108		Hallucinations.  Sleep.  Dreaming.  Visions
+BF1111-1156		Hypnotism.  Suggestion.  Mesmerism.  Subliminal projection
+BF1161-1171		Telepathy.  Mind reading.  Thought transference
+BF1228-1389		Spiritualism Including mediumship, spirit messages, clairvoyance
+BF1404-2055	Occult sciences
+BF1444-1486		Ghosts.  Apparitions.  Hauntings
+BF1501-1562		Demonology.  Satanism.  Possession
+BF1562.5-1584		Witchcraft
+BF1585-1623		Magic.  Hermetics.  Necromancy
+BF1651-1729		Astrology
+BF1745-1779		Oracles.  Sibyls.  Divinations
+BF1783-1815		Seers.  Prophets.  Prophecies
+BF1845-1891		Fortune-telling
+BF2050-2055		Human-alien encounters.  Contact between humans and extraterrestrials
+PQ1-3999	French literature
+PQ4001-5999	Italian literature
+PQ6001-8929	Spanish literature
+PQ9000-9999	Portuguese literature
