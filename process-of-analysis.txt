@@ -1,0 +1,1 @@
+First cleaned up data, removed decorative column headings to leave behind just simple column names.
